@@ -1,7 +1,7 @@
 # Content
-* [Intro](##Intro)
-  * [Execution of Servlets](####Execution-of-Servlets)
-  * [Life Cycle](####Life-Cycle)
+- [Intro](##Intro)
+  - [Execution of Servlets](####Execution-of-Servlets)
+  - [Life Cycle](####Life-Cycle)
 
 ## Intro
 Servlets are the Java programs that runs on the Java-enabled web server or application server(works on **server-side** to create dynamic Web pages). They are used to handle the request obtained from the web server, process the request, produce the response, then send response back to the web server.
