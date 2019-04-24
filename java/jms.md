@@ -1,4 +1,4 @@
-# Java Message Service(JMS) And Message Queue(MQ)
+# Message Queue(MQ) And Java Message Service(JMS)
 ## Message Queue
 - [IBM Intro To MQ](https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_8.0.0/com.ibm.mq.pro.doc/q002620_.htm)
 - [IBM MQ Terminology](https://www.ibm.com/support/knowledgecenter/SSFKSJ_8.0.0/com.ibm.mq.pro.doc/q002640_.htm#q002640___Message)
