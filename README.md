@@ -8,4 +8,4 @@
     * [Message Queue and JMS](/java/jms.md)
 * [Database]()
   * [SQL](/database/sql.md)
-* [Remote Procedure Call (RPC)](/otherToptics/rpc.md)
+* [Remote Procedure Call (RPC)](/otherTopics/rpc.md)
