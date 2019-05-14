@@ -5,11 +5,10 @@
 
 ### Component
 #### Resources:
-  - [Official Docs](https://angular.io/guide/architecture-components)
+[Official Docs](https://angular.io/guide/architecture-components)
 
 - A component controls a patch of screen called a `view`
 - You define a component's application logic—what it does to support the view—inside a class. The class interacts with the view through an API of properties and methods.
-
 
 #### Component Metadata
 - The metadata for a component tells Angular where to get the major building blocks that it needs to create and present the component and its view
@@ -26,3 +25,26 @@
     /* . . . */
     }
 ```
+#### Template and views
+- You define a component's view with its companion template. A template is a form of HTML that tells Angular how to render the component.
+- The template immediately associated with a component defines that component's `host view`. 
+- Example: template.html
+```html
+<h2>Hero List</h2>
+
+<p><i>Pick a hero from the list</i></p>
+<ul>
+  <li *ngFor="let hero of heroes" (click)="selectHero(hero)">
+    {{hero.name}}
+  </li>
+</ul>
+
+<app-hero-detail *ngIf="selectedHero" [hero]="selectedHero"></app-hero-detail>
+```
+
+#### Data binding
+- a mechanism for coordinating the parts of a `template` with the parts of a `component`, tell Angular how to connect both sides
+- The following diagram shows the four forms of data binding markup.
+- ![Data Binding](https://angular.io/generated/images/guide/architecture/databinding.png)
+- In two-way binding, a data property value flows to the input box from the component as with property binding. The user's changes also flow back to the component, resetting the property to the latest value, as with event binding.
+- ![Bingding](https://angular.io/generated/images/guide/architecture/component-databinding.png)
