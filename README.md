@@ -11,3 +11,4 @@
   * [SQL](/database/sql.md)
 * [Remote Procedure Call (RPC)](/otherTopics/rpc.md)
 * [Microservices](/otherTopics/microservices.md)
+* [Kafka](/otherTopics/kafka.md)
