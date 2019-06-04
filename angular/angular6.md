@@ -48,3 +48,12 @@
 - ![Data Binding](https://angular.io/generated/images/guide/architecture/databinding.png)
 - In two-way binding, a data property value flows to the input box from the component as with property binding. The user's changes also flow back to the component, resetting the property to the latest value, as with event binding.
 - ![Bingding](https://angular.io/generated/images/guide/architecture/component-databinding.png)
+
+#### Difference between `component` and `service`
+- Component
+  - a class with a decorator @Component which tells angular that the class is a component. 
+  - They are always associated with an HTML template and some CSS.
+  - When a part of html gets repeated with a similar functionality it is always best to put it into a component. This component can be called where ever the same functionality is required.
+- Service
+  - They are cenral units for some common functions across the application.
+  - They are simple classes with functions and members.
