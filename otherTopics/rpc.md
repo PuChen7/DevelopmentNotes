@@ -11,41 +11,36 @@
 
 
 
+Pu Chen
+527 Old Bridge Turnpike #3307
+East Brunswick, NJ, 08816
+09/05/2019
 
-Dear Professor Santosh,
+Antonio Miranda
+Rutgers, The State University of New Jersey
 
-My name is Pu Chen. I graduated from Rutgers University in Spring 2018 with a Bachelor of Science degree in Computer Science.
-Now I'm working as a Full-Stack Software Engineer at State Street Corporation. 
+Dear Professor Antonio,
 
-I have greatly enjoyed and benefited from the Computer Architecture (01:198:211) that I took with you in Spring 2017. 
-I enjoyed the way the lectures were presented. It was very organized and helpful for me to learn as much as I can. 
-Your efforts in lectures and office hours definitely supported me to get an "A" for this course.
-I still remember the project "Binary Bomb" which is interesting and helpful to get a deeper understanding of what I learned from the lecture.
+I hope you are well.
+I have greatly enjoyed and benefited from the Principles of Information and Data Management (01:198:336) that I took with you in Fall 2017.
+I am writing to ask if you would be willing to draft a letter of recommendation in support of my application for the graduate school. 
 
-Now, as I getting more familiar with my work, I'm trying to improve myself by attending graduate school at Rutgers University. 
-There are two programs that I'm planning to apply, 
-MS in Data Science (Computer Science Department), and Master of Business and Science (MBS) with Analytics concentration.
-The reason why I chose Data Science related field is because I'm working on a project called Fax AI at my company. 
-As the development going further, I realized that having knowledge in data related fields such as machine learning and AI would greatly support me in developing the software.
-And I believe the knowledge in this field will be widely needed in the future.
+I graduated from Rutgers University in Spring 2018 with a Bachelor of Science (B.S.) degree in Computer Science.
+Now I'm working as a Full-Stack Software Engineer at State Street Corporation.
+The scope of my duties includes developing trade transaction system for both front-end and back-end, database management, and project migrating etc.
+As I getting more familiar with my work, I'm planning to further advance my skills by attending graduate school at Rutgers University.
+Since some of my work involves knowledge of data analytics, I chose Data Science related Master Programs. 
 
-As part of the prerequisites for acceptance, I have been asked to provide a letter of recommendation. 
-Would you be comfortable writing such a letter for me with comments in regard to my coursework?
+Belows are the two Master Programs I am planning to apply at Rutgers University, New Brunswick:
+- MS in Data Science (Computer Science Department) - Rutgers University, New Brunswick
+- Master of Business and Science Degree (Analytics Concentration) - Rutgers University, New Brunswick
 
-The deadline for submitting the letter is 10/15/2019. Please let me know if you are unable to provide a letter.
+I would greatly appreciate it if you could write a letter of recommendation for me with positive comments in regard to the coursework I took with you.
+The deadline of submitting letters for both programs are as follows:
+- MS in Data Science (Computer Science Department) - 10/15/2019
+- Master of Business and Science Degree (Analytics Concentration) - 12/01/2019
 
-I have attached my class history including grades and assignments. 
-I also attached my resume which will bring you up to date about my experience.
-
-I know you’re busy. 
-So I would happy to stop by at your office when you have time and provide more information and details to make writing this letter a little easier.
-Please let me know your best time I can stop by.
-
-Thanks so much for all you have done for me and for taking the time to review this request.
-
-My RUID: 167000324
-My NetID: pc589
-My LinkedIn: 
+Thank you for your time and efforts.
 
 Best regards,
 Pu Chen
